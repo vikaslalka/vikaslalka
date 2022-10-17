@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikas</h1>
 <h3 align="center">A passionate frontend developer based in Toronto,Canada</h3>
 
-<img align="right" width="400" src="https://i.gifer.com/embedded/download/TIbw.gif">
+<img align="right" alt="coding" width="400" src="https://i.gifer.com/embedded/download/TIbw.gif">
 
 - 🌱 I’m currently learning **Phython ,SQL**
 
