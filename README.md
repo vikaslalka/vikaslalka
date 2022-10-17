@@ -1,3 +1,4 @@
+![logo](https://github.com/vikaslalka/vikaslalka/blob/main/Welcome%20to%20my%20GITHUB!.png)
 <h1 align="center">Hi 👋, I'm Vikas</h1>
 <h3 align="center">A passionate frontend developer based in Toronto,Canada</h3>
 
